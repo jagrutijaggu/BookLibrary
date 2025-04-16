@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&display=swap');
+
+.header-content{
+    min-height: 100vh;
+    background: linear-gradient(rgba(141, 39, 174, 0.3), rgba(141, 39, 174, 0.5)), url("../../images/background.jpg") center/cover no-repeat;
+    flex-direction: column;
+}
+.header-title{
+    font-size: 1.2 ;
+    margin-top: 245px;
+    font-family: 'Comfortaa', sans-serif;
+}
+.header-text{
+    margin-top: -1.8rem;
+    margin-bottom: 2.8rem;
+    opacity: 0.8;
+    max-width: 770px;
+}
